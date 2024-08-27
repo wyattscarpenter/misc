@@ -32,7 +32,7 @@ I ask that you don't hold the fact that every artist will have like a million un
 
 I started this repo in 2024-08-26 and I probably won't be backfilling it unfortunately. But you're free to contribute backfilling if you like.
 
-If keeping a "misc" around as a comprehensive account of something interesting takes off as concept (and realistically I can't be the guy in charge of approving pull requests about the entirety of human information), I'm going to need a better name for it. Or is it better just called a "wiki"? Does it become a wiki in the limit? Is it just a specific style of wiki (single-page (mostly (there can be annexes for various things) and comprehensive)? Not an encyclopedia but a directory (in the classic sense)... perhaps something ending in -dex. Miscodex, maybe.
+If keeping a "misc" around as a comprehensive account of something interesting takes off as concept (and realistically I can't be the guy in charge of approving pull requests about the entirety of human information), I'm going to need a better name for it. Or is it better just called a "wiki"? Does it become a wiki in the limit? Is it just a specific style of wiki (single-page (mostly (there can be annexes for various things) and comprehensive)? Not an encyclopedia but a directory (in the classic sense)... perhaps something ending in -dex. Miscodex, maybe. Something inside of me would like to call it some random jumble of sounds like a garthodex, however. (Even though my name is not Garth — which immediately brings to mind the suggestion "carpodex"; "carpodex" for the style of thing, "Carpodex" for the one I run, probably; not to be confused with "crapodex" (which, it is))
 
 ## future ideas:
 
