@@ -1,5 +1,5 @@
 # misc
-Misc is a community wiki to track many things, implemented in a git repo of markdown files. It's pribarily run by one guy, the only guy who cares. It's arranged like this so I can track all of the things I'm interested in, and maybe other people can help as well, without creating a billion dedicated wikis or whatever. To contribute, you must make an account on github (this is easy) and do a pull request on this repo (this is also easy). All told, it shouldn't be harder than contributing to a regular wiki, for you at least, and this way the wiki will never go down due to software updates or hosting costs (feel free to clone this repo on your main as well.
+Misc is a community wiki to track many things, implemented in a git repo of markdown files. It's primarily run by one guy, the only guy who cares. It's arranged like this so I can track all of the things I'm interested in, and maybe other people can help as well, without creating a billion dedicated wikis or whatever. To contribute, you must make an account on github (this is easy) and do a pull request on this repo (this is also easy). All told, it shouldn't be harder than contributing to a regular wiki, for you at least, and this way the wiki will never go down due to software updates or hosting costs (feel free to clone this repo on your main as well.
 
 ## a tale of woe
 
