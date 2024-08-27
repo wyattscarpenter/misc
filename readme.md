@@ -1,5 +1,5 @@
 # misc
-Misc is a community wiki to track many things, implemented in a git repo of markdown files. It's primarily run by one guy, the only guy who cares. It's arranged like this so I can track all of the things I'm interested in, and maybe other people can help as well, without creating a billion dedicated wikis or whatever. To contribute, you must make an account on github (this is easy) and do a pull request on this repo (this is also easy). All told, it shouldn't be harder than contributing to a regular wiki, for you at least, and this way the wiki will never go down due to software updates or hosting costs (feel free to clone this repo on your main as well.
+Misc is a community wiki to track many things, implemented in a git repo of markdown files. It's primarily run by one guy, the only guy who cares. It's arranged like this so I can track all of the things I'm interested in, and maybe other people can help as well, without creating a billion dedicated wikis or whatever. To contribute, you must make an account on github (this is easy) and do a pull request on this repo (this is also easy). All told, it shouldn't be harder than contributing to a regular wiki, for you at least, and this way the wiki will never go down due to software updates or hosting costs (feel free to clone this repo on your hard drive as well). It also will never have ads like fandom.com lol.
 
 ## a tale of woe
 
@@ -13,6 +13,10 @@ Here are various strategies for dealing with this problem (the latter three basi
 4. (YOU ARE HERE) I make a list myself.
 
 These are not secret things, by the way; I'm not doxxing anyone. These are public appearences and materials, meant for public consumption; just not put in any sort of useful list. So, instead of pleading to each one to do it individually, I figured I could just do it myself.
+
+A similar situation applies to, like, tracking down every version of a book or song & learning the differences between versions.
+
+If keeping a "misc" around as a comprehensive account of something interesting takes off as concept (and realistically I can't be the guy in charge of approving pull requests about the entirety of human information), I'm going to need a better name for it. Or is it better just called a "wiki"? Does it become a wiki in the limit? Is it just a specific style of wiki (single-page (mostly) and comprehensive)?
 
 ## misc notes on Misc
 
