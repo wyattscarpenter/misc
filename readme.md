@@ -16,7 +16,7 @@ These are not secret things, by the way; I'm not doxxing anyone. These are publi
 
 A similar situation applies to, like, tracking down every version of a book or song & learning the differences between versions.
 
-If keeping a "misc" around as a comprehensive account of something interesting takes off as concept (and realistically I can't be the guy in charge of approving pull requests about the entirety of human information), I'm going to need a better name for it. Or is it better just called a "wiki"? Does it become a wiki in the limit? Is it just a specific style of wiki (single-page (mostly) and comprehensive)?
+If keeping a "misc" around as a comprehensive account of something interesting takes off as concept (and realistically I can't be the guy in charge of approving pull requests about the entirety of human information), I'm going to need a better name for it. Or is it better just called a "wiki"? Does it become a wiki in the limit? Is it just a specific style of wiki (single-page (mostly (there can be annexes for various things) and comprehensive)? Not an encyclopedia but a directory (in the classic sense)...
 
 ## misc notes on Misc
 
